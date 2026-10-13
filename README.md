@@ -118,28 +118,24 @@ Viewed the project folder on the EC2 instance.
 
 ### 4. Python Version and Project Directory
 Verified the installed Python version and navigated to the project directory.
+![Python Version and Project Directory](./python-version-directory.png)
 
-![Python Version and Project Directory](./Python%20Version%20and%20Project%20Directory.png)
 
 ### 5. Python App Code and Project Structure
 Reviewed the Python application code and project structure.
-
-![Python App Code and Project Structure](./Python%20App%20Code%20and%20Project%20Structure.png)
+![Python App Code and Project Structure](./python-app-structure.png)
 
 ### 6. Python Application Code and Dependencies
 Checked the `app.py` file and the required application dependencies.
-
-![Python Application Code and Dependencies](./Python%20Application%20Code%20and%20Dependencies.png)
+![Python Application Code and Dependencies](./python-code-dependencies.png)
 
 ### 7. Python Dependencies Installation
 Installed Flask and the other required Python packages.
-
-![Python Dependencies Installation](./Python%20Dependencies%20Installation.png)
+![Python Dependencies Installation](./python-dependencies-installation.png)
 
 ### 8. Python Application Configuration and Process Check
 Checked the application configuration and process status during deployment.
-
-![Python Application Configuration and Process Check](./Python%20Application%20Configuration%20and%20Process%20Check.png)
+![Python Application Configuration](./python-app-configuration.png)
 
 ### 9. Python App Deployment Process
 Reviewed the project files and terminal commands used during deployment.
@@ -148,5 +144,4 @@ Reviewed the project files and terminal commands used during deployment.
 
 ### 10. Python App Successfully Deployed
 Final screenshot showing the deployed Python application in the browser.
-
-![Python App Successfully Deployed](./Python-App-Successfully-Deployed.png)
+![Python App Successfully Deployed](./python-app-deployed.png)
